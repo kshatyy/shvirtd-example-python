@@ -41,7 +41,8 @@
 ## Задача 6
 Скачайте docker образ ```hashicorp/terraform:latest``` и скопируйте бинарный файл ```/bin/terraform``` на свою локальную машину, используя dive и docker save.
 Предоставьте скриншоты  действий .
-<img src="img/">
+<img src="img/6-1.png">
+<img src="img/6-2.png">
 
 
 ---
