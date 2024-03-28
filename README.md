@@ -36,6 +36,7 @@
 
 <a href="https://github.com/kshatyy/shvirtd-example-python/blob/main/run.sh">bash-скрипт</a>
 <a href="https://github.com/kshatyy/shvirtd-example-python">Ссылка на репозиторий</a>
+<img src="img/4.png">
 
 ---
 ## Задача 6
